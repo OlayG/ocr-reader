@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\81f5cc5745811267f27a098a3f5fdab87a1983de\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\81f5cc5745811267f27a098a3f5fdab87a1983de\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\81f5cc5745811267f27a098a3f5fdab87a1983de\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

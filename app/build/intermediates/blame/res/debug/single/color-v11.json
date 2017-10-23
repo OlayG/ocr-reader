@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\81f5cc5745811267f27a098a3f5fdab87a1983de\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\81f5cc5745811267f27a098a3f5fdab87a1983de\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
